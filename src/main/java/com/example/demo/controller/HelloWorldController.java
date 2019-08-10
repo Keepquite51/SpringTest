@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HelloWorldController {
 
+	// ’‚¿Ô «◊¢ Õ
     @RequestMapping("/say.html")
     @ResponseBody
     public String say(){
