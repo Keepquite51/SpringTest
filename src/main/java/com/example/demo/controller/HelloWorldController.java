@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HelloWorldController {
 
-	// ÕâÀïÊÇ×¢ÊÍ
+	// è¿™é‡Œæ˜¯æ³¨é‡Šï¼Œtest
     @RequestMapping("/say.html")
     @ResponseBody
     public String say(){
